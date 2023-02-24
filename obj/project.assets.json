@@ -43,11 +43,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\the-interpreter-101\\the-interpreter-101.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Trabalho-Compilador\\the-interpreter-101.csproj",
       "projectName": "the-interpreter-101",
-      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\the-interpreter-101\\the-interpreter-101.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Trabalho-Compilador\\the-interpreter-101.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\the-interpreter-101\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Trabalho-Compilador\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
